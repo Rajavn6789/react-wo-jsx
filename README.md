@@ -11,7 +11,7 @@ The react package contains helpers related to create and define elements, compon
 6. version
 
 ### b) ReactDOM
-ReactDOM is the glue between React and the DOM. Often, you will only use it for one single thing: mounting with ReactDOM.render().
+ReactDOM is the glue between React and the DOM which provides DOM-specific methods that can be used at the top level of your app. Often, you will only use it for one single thing: mounting with ReactDOM.render().
 
 1. render
 2. unmountComponentAtNode
@@ -20,3 +20,4 @@ ReactDOM is the glue between React and the DOM. Often, you will only use it for 
 
 ### References
 1. [React Without JSX - Academind](https://www.youtube.com/watch?v=dUlz4tc9LSo)
+2. [JSX to Javascript](https://babeljs.io/repl)
